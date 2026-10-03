@@ -20,4 +20,7 @@ I'm learning web development and building my coding skills step by step.
 🎯 My Goals
 ## 📊 GitHub Stats
 
-![Kainat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
+
+![kainatkousar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kainat\&show_icons=true\&theme=tokyonight)
+
